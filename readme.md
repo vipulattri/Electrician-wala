@@ -1,6 +1,6 @@
 # Electrician Wala
 
-![Electrician Wala Logo](path/to/logo.png)
+![Electrician Wala Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRvu8LBQaYVAgFCyW9tkvy9jtdRnl-y-aACw&s)
 
 ## Requirements
 - **Login Authentication** ![Login](https://img.freepik.com/free-vector/login-concept-illustration_114360-739.jpg)
