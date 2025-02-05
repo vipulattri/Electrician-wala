@@ -19,7 +19,7 @@
 - **Repair Services** ![Repair](https://cdn.thewirecutter.com/wp-content/media/2021/07/righttorepair-2048px-iStock-1226436218.jpg?auto=webp&quality=75&crop=1.91:1&width=1200)
 - **Wiring Solutions**
 - **Fan Binding Services** 
-- **Miscellaneous Electrical Work** ![Miscellaneous](path/to/miscellaneous-image.png)
+- **Miscellaneous Electrical Work** 
 
 ---
 
