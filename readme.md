@@ -10,7 +10,7 @@
 - **User Dashboard**
 - **Payment Integration** ![Payment](https://cdn.pixabay.com/photo/2021/03/19/13/40/online-6107598_640.png)
 - **Provision for Offline Payment**
-- **Google Maps Integration for Relocation Assistance** ![Google Maps](https://storage.googleapis.com/gweb-uniblog-publish-prod/images/google_maps_helpful_hero_1.width-1200.format-webp.webp)
+- **Google Maps Integration for Relocation Assistance** ![Google Maps](https://images.pexels.com/photos/38271/ipad-map-tablet-internet-38271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 - **Easy to Use**
 - **User-Friendly Interface**
 
